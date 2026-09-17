@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/surajjogi/DSA_daily/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/surajjogi/DSA_daily/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/surajjogi/DSA_daily/tree/master/0486-predict-the-winner) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/surajjogi/DSA_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/surajjogi/DSA_daily/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/surajjogi/DSA_daily/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajjogi/DSA_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/surajjogi/DSA_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/surajjogi/DSA_daily/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/surajjogi/DSA_daily/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/surajjogi/DSA_daily/tree/master/3536-maximum-product-of-two-digits) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/surajjogi/DSA_daily/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/surajjogi/DSA_daily/tree/master/0090-subsets-ii) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/surajjogi/DSA_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/surajjogi/DSA_daily/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
@@ -341,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/surajjogi/DSA_daily/tree/master/0836-rectangle-overlap) |
+## Simulation
+|  |
+| ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/surajjogi/DSA_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
