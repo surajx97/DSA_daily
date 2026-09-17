@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/surajjogi/DSA_daily/tree/master/0079-word-search) |
 | [0344-reverse-string](https://github.com/surajjogi/DSA_daily/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/surajjogi/DSA_daily/tree/master/0443-string-compression) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/surajjogi/DSA_daily/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surajjogi/DSA_daily/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/surajjogi/DSA_daily/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/surajjogi/DSA_daily/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajjogi/DSA_daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/surajjogi/DSA_daily/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/surajjogi/DSA_daily/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
