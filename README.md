@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/surajjogi/DSA_daily/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/surajjogi/DSA_daily/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/surajjogi/DSA_daily/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/surajjogi/DSA_daily/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/surajjogi/DSA_daily/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/surajjogi/DSA_daily/tree/master/0213-house-robber-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/surajjogi/DSA_daily/tree/master/0070-climbing-stairs) |
 | [0445-add-two-numbers-ii](https://github.com/surajjogi/DSA_daily/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/surajjogi/DSA_daily/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajjogi/DSA_daily/tree/master/0628-maximum-product-of-three-numbers) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/surajjogi/DSA_daily/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/surajjogi/DSA_daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
