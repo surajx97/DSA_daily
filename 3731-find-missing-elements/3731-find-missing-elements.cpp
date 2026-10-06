@@ -8,9 +8,9 @@ public:
             if (nums[i + 1] - nums[i] <= 1) {
                 continue;
             } else {
-                int range = nums[i + 1] - nums[i];
-                for (int j = 1; j < range; j++) {
-                    ans.push_back(nums[i] + j);
+              
+                for (int j = nums[i]; j <nums[i+1]-1; j++) {
+                    ans.push_back(j+1);
                 }
             }
         }
