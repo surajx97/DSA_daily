@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/surajjogi/DSA_daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/surajjogi/DSA_daily/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/surajjogi/DSA_daily/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/surajjogi/DSA_daily/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/surajjogi/DSA_daily/tree/master/0238-product-of-array-except-self) |
 | [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/surajjogi/DSA_daily/tree/master/0417-pacific-atlantic-water-flow) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/surajjogi/DSA_daily/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/surajjogi/DSA_daily/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/surajjogi/DSA_daily/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/surajjogi/DSA_daily/tree/master/0217-contains-duplicate) |
 | [0846-hand-of-straights](https://github.com/surajjogi/DSA_daily/tree/master/0846-hand-of-straights) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/surajjogi/DSA_daily/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/surajjogi/DSA_daily/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/surajjogi/DSA_daily/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/surajjogi/DSA_daily/tree/master/0217-contains-duplicate) |
 | [0324-wiggle-sort-ii](https://github.com/surajjogi/DSA_daily/tree/master/0324-wiggle-sort-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/surajjogi/DSA_daily/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/surajjogi/DSA_daily/tree/master/0846-hand-of-straights) |
